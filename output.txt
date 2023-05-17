@@ -1,0 +1,29 @@
+Window controlAbout Get supportzyut1000@cseco.co.ke Logout
+Application tasksMail Contacts SettingsLogo
+
+MailApplication toolbarRefresh Compose  Reply Reply allReply-all options ForwardForwarding options Delete Mark MoreEmail listing filter
+All
+AllEmail message search formEmail search inputOptions
+Reset searchEmail folder selection
+Inbox1
+Drafts
+Sent
+Junk
+Trash
+Archive
+⚙List options... Messages 1 to 1 of 1First Previous 
+1
+ Next LastEmail Messages Listing
+The Google Workspace Team
+Tue 18:21
+You're invited to join CSECO on Google Workspace
+ 
+List keyboard navigation
+Arrows up/down: Move row focus/selection.
+Space: Select focused row.
+Shift + up/down: Select additional row above/below.
+Ctrl + Space: Add focused row to selection/remove from selection.
+Arrows right/left: expand/collapse message thread (in threads mode only).
+Enter: Open the selected/focused message.
+Delete: Move selected messages to Trash.
+List Threads Select   ThreadsMessage preview
